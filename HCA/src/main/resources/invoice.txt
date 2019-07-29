@@ -1,0 +1,3 @@
+Sun Jul 28 21:39:48 CDT 2019	soda      	Topo Chico	1.0   	1     
+Sun Jul 28 21:53:21 CDT 2019	soda      	Coke      	1.25  	1     
+Sun Jul 28 22:14:44 CDT 2019	soda      	Fanta     	1.25  	1     
